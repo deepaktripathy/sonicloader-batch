@@ -1,0 +1,6 @@
+https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-file/
+
+http://www.codingpedia.org/ama/spring-batch-tutorial-with-spring-boot-and-java-configuration/
+http://javasampleapproach.com/spring-framework/spring-integration/start-spring-integration-spring-boot
+
+https://dzone.com/articles/spring-boot-restful-web-service-example
